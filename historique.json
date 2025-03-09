@@ -1,0 +1,42 @@
+[
+    {
+        "role": "user",
+        "content": "Salut chatbot, comment vas-tu ?"
+    },
+    {
+        "role": "assistant",
+        "content": "Bonjour! En tant qu'intelligence artificielle, je n'ai pas de sentiments, mais merci de demander. Comment puis-je vous aider aujourd'hui?"
+    },
+    {
+        "role": "user",
+        "content": "Bonjour fr\u00e9rot, comment \u00e7a va aujourd'hui ?"
+    },
+    {
+        "role": "assistant",
+        "content": "Bonjour! En tant qu'intelligence artificielle, je n'ai pas de sentiments personnels. Cependant, je suis pr\u00eat \u00e0 vous aider. Comment puis-je vous aider aujourd'hui?"
+    },
+    {
+        "role": "user",
+        "content": "Ah oui c'est vrai tu es une machine, j'oublie tout le temps"
+    },
+    {
+        "role": "assistant",
+        "content": "Pas de probl\u00e8me, cela arrive \u00e0 tout le monde. Comment puis-je vous aider aujourd'hui?"
+    },
+    {
+        "role": "user",
+        "content": "Pour l'instant, je valide un programme de mise en place de chatbot avec toi, je te fais signe quand j'ai besoin, d'accord ?"
+    },
+    {
+        "role": "assistant",
+        "content": "Absolument, je suis l\u00e0 pour vous aider quand vous en avez besoin. N'h\u00e9sitez pas \u00e0 me poser une question ou \u00e0 demander de l'aide. Bonne chance avec votre programme de mise en place de chatbot !"
+    },
+    {
+        "role": "user",
+        "content": "Bonsoir, comment vas tu ?"
+    },
+    {
+        "role": "assistant",
+        "content": "Bonsoir! En tant qu'intelligence artificielle, je n'ai pas de sentiments, mais je suis pr\u00eat \u00e0 vous aider. Comment puis-je vous aider aujourd'hui?"
+    }
+]
