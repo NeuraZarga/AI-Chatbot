@@ -13,3 +13,4 @@ config.json
 
 # Fichier d'historique (optionnel si on ne veut pas le rendre public)
 historique.json
+
