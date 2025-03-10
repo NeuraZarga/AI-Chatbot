@@ -15,13 +15,6 @@ AI-Chatbot est un assistant IA basé sur GPT-4, utilisant **FastAPI** pour le ba
 - 🔹 Mode debug pour afficher les tokens
 - 🔹 Optimisation des coûts API OpenAI
 
-## Installation
-```bash
-git clone https://github.com/NeuraZarga/AI-Chatbot.git
-cd AI-Chatbot
-pip install -r backend/requirements.txt
-streamlit run frontend/streamlit_app.py
-
 ## Contribution
 Toute contribution est la bienvenue ! Pour proposer des améliorations :
 1. Forkez ce repo
@@ -29,4 +22,12 @@ Toute contribution est la bienvenue ! Pour proposer des améliorations :
 3. Faites vos modifications et committez (`git commit -m "Ajout d'une nouvelle feature"`)
 4. Poussez votre branche (`git push origin feature-nouvelle-fonctionnalité`)
 5. Faites une pull request !
+
+
+## Installation
+```bash
+git clone https://github.com/NeuraZarga/AI-Chatbot.git
+cd AI-Chatbot
+pip install -r backend/requirements.txt
+streamlit run frontend/streamlit_app.py
 
