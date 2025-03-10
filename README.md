@@ -21,3 +21,13 @@ git clone https://github.com/NeuraZarga/AI-Chatbot.git
 cd AI-Chatbot
 pip install -r backend/requirements.txt
 streamlit run frontend/streamlit_app.py
+
+## Contribution
+
+Toute contribution est la bienvenue ! Pour proposer des améliorations :
+1. Forkez ce repo
+2. Créez une branche (`feature-nouvelle-fonctionnalité`)
+3. Faites vos modifications et committez (`git commit -m "Ajout d'une nouvelle feature"`)
+4. Poussez votre branche (`git push origin feature-nouvelle-fonctionnalité`)
+5. Faites une pull request !
+
