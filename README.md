@@ -24,10 +24,26 @@ Toute contribution est la bienvenue ! Pour proposer des améliorations :
 5. Faites une pull request !
 
 
-## Installation
+## 📌 Installation
+
 ```bash
 git clone https://github.com/NeuraZarga/AI-Chatbot.git
 cd AI-Chatbot
-pip install -r backend/requirements.txt
+
+# 1️⃣ Créer et activer un environnement virtuel
+python3 -m venv venv
+source venv/bin/activate
+
+# 2️⃣ Installer les dépendances
+pip install -r requirements.txt
+
+# 3️⃣ Définir la clé API OpenAI (Remplacer avec ta clé)
+export OPENAI_API_KEY="ta_clé"
+
+# 4️⃣ Lancer l'API (Backend)
+uvicorn backend.api:app --host 0.0.0.0 --port 8000 --reload  
+
+# 5️⃣ Lancer l'interface (Frontend)
 streamlit run frontend/streamlit_app.py
+
 
