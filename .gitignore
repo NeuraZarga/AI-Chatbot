@@ -1,0 +1,15 @@
+# Environnement virtuel
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers de configuration sensibles
+.env
+config.json
+
+# Fichier d'historique (optionnel si on ne veut pas le rendre public)
+historique.json
