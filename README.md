@@ -23,7 +23,6 @@ pip install -r backend/requirements.txt
 streamlit run frontend/streamlit_app.py
 
 ## Contribution
-
 Toute contribution est la bienvenue ! Pour proposer des améliorations :
 1. Forkez ce repo
 2. Créez une branche (`feature-nouvelle-fonctionnalité`)
